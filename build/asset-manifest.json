@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/K-FLIX/static/css/main.e365ae8a.css",
-    "main.js": "/K-FLIX/static/js/main.096d2001.js",
+    "main.js": "/K-FLIX/static/js/main.e5855117.js",
     "index.html": "/K-FLIX/index.html",
     "static/media/search.svg": "/K-FLIX/static/media/search.b83c9ce057389d6ca42d48ccce13fbfe.svg",
     "main.e365ae8a.css.map": "/K-FLIX/static/css/main.e365ae8a.css.map",
-    "main.096d2001.js.map": "/K-FLIX/static/js/main.096d2001.js.map"
+    "main.e5855117.js.map": "/K-FLIX/static/js/main.e5855117.js.map"
   },
   "entrypoints": [
     "static/css/main.e365ae8a.css",
-    "static/js/main.096d2001.js"
+    "static/js/main.e5855117.js"
   ]
 }

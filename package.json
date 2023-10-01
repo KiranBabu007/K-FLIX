@@ -1,7 +1,7 @@
 {
-  "homepage":"https://KiranBabu007.github.io/K-FLIX",
+  "homepage": "https://KiranBabu007.github.io/K-FLIX",
   "name": "my-app",
-  "proxy":"http://localhost:8080",
+  "proxy": "http://localhost:8080",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
